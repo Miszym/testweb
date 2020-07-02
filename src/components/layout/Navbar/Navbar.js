@@ -47,6 +47,7 @@ const StyledUl = styled.ul`
       flex-direction: column;
       align-items: center;
       display: none;
+      z-index: 100;
       &.open {
          display: flex;
       }
@@ -58,9 +59,9 @@ const StyledUl = styled.ul`
 
 const StyledBurgerButton = styled.div`
    font-size: 4rem;
-   position: absolute;
-   left: 50%;
-   top: 1rem;
+
+   margin-top: 1rem;
+   margin-right: 1rem;
    display: none;
    cursor: pointer;
    &:hover {

@@ -22,15 +22,19 @@ const ButtonText = ({ children, style }) => {
 };
 
 ButtonText.propTypes = {
-   color: PropTypes.string,
-   width: PropTypes.string,
-   size: PropTypes.string,
+   style: PropTypes.shape({
+      color: PropTypes.string,
+      width: PropTypes.string,
+      size: PropTypes.string,
+   }),
 };
 
 ButtonText.defaultProps = {
-   color: '#010101',
-   width: '10rem',
-   size: '1rem',
+   style: {
+      color: '#010101',
+      width: '10rem',
+      size: '1rem',
+   },
 };
 
 export default ButtonText;

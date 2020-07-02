@@ -6,6 +6,7 @@ import Login from '../Login/Login';
 
 const StyledHeader = styled.header`
    position: fixed;
+   top: 0;
    width: 100%;
    height: 7.5rem;
    background-color: white;
