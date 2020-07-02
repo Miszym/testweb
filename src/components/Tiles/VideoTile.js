@@ -7,7 +7,6 @@ const StyledVideoTile = styled.article`
       video {
          position: relative;
          max-width: 100%;
-         /* max-height: 60rem; */
          z-index: 10;
       }
    }

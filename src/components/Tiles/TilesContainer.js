@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 import Token from './Token';
-import AnimatedTextTile from './AnimatedTextTile';
+import AnimatedTextTile from './AnimatedTextTile/AnimatedTextTile';
 import VideoTile from './VideoTile';
 
 const StyledContainer = styled.section`
@@ -17,8 +17,6 @@ const TilesContainer = () => {
       <StyledContainer>
          <AnimatedTextTile />
          <VideoTile />
-         <Token />
-         <Token />
       </StyledContainer>
    );
 };
