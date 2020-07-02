@@ -28,10 +28,12 @@ const StyledMainBanner = styled.section`
          border-color: #002d5c transparent transparent transparent;
       }
       @media (max-width: 768px) {
-         border-top-width: 95rem;
-         &.second,
+         border-width: 90rem 45vw 0 45vw;
+         &.second {
+            border-width: 90rem 30vw 0 30vw;
+         }
          &.third {
-            border-top-width: 95rem;
+            border-width: 90rem 20vw 0 20vw;
          }
       }
    }
