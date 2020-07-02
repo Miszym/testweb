@@ -10,6 +10,7 @@ const StyledHeader = styled.header`
    width: 100%;
    height: 7.5rem;
    background-color: white;
+   z-index: 1000;
    img {
       margin-left: 5rem;
       margin-top: 1rem;

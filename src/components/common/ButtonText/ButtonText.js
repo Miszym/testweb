@@ -8,6 +8,7 @@ const StyledButton = styled.button`
    border: 0;
    border-radius: 2px;
    font-family: 'Roboto Condensed', sans-serif;
+   font-weight: 700;
    text-transform: uppercase;
    width: ${(props) => props.style.width};
    color: ${(props) => props.style.color};
