@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/testweb/static/css/main.c966226e.chunk.css",
+    "main.js": "/testweb/static/js/main.66281e89.chunk.js",
+    "main.js.map": "/testweb/static/js/main.66281e89.chunk.js.map",
+    "runtime-main.js": "/testweb/static/js/runtime-main.bf629fb4.js",
+    "runtime-main.js.map": "/testweb/static/js/runtime-main.bf629fb4.js.map",
+    "static/js/2.295043a4.chunk.js": "/testweb/static/js/2.295043a4.chunk.js",
+    "static/js/2.295043a4.chunk.js.map": "/testweb/static/js/2.295043a4.chunk.js.map",
+    "index.html": "/testweb/index.html",
+    "precache-manifest.1f798f1803fa66f0c85ec5363ed09eb2.js": "/testweb/precache-manifest.1f798f1803fa66f0c85ec5363ed09eb2.js",
+    "service-worker.js": "/testweb/service-worker.js",
+    "static/css/main.c966226e.chunk.css.map": "/testweb/static/css/main.c966226e.chunk.css.map",
+    "static/js/2.295043a4.chunk.js.LICENSE.txt": "/testweb/static/js/2.295043a4.chunk.js.LICENSE.txt",
+    "static/media/background.jpeg": "/testweb/static/media/background.c22abaa2.jpeg",
+    "static/media/golden_gate.mp4": "/testweb/static/media/golden_gate.ad28f07c.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf629fb4.js",
+    "static/js/2.295043a4.chunk.js",
+    "static/css/main.c966226e.chunk.css",
+    "static/js/main.66281e89.chunk.js"
+  ]
+}
